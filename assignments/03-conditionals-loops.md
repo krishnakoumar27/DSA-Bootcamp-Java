@@ -2,17 +2,17 @@
 ## Write Java programs for the following: 
 
 ### Basic Java Programs
-1. Area Of Circle Java Program [Solution](workouts/03-conditionals-loops/AreaCircle.java)
-2. Area Of Triangle
-3. Area Of Rectangle Program 
-4. Area Of Isosceles Triangle 
-5. Area Of Parallelogram
-6. Area Of Rhombus
-7. Area Of Equilateral Triangle
-8. Perimeter Of Circle
-9. Perimeter Of Equilateral Triangle
-10. Perimeter Of Parallelogram
-11. Perimeter Of Rectangle
+1. Area Of Circle Java Program [x]
+2. Area Of Triangle [x]
+3. Area Of Rectangle Program [x]
+4. Area Of Isosceles Triangle [x]
+5. Area Of Parallelogram [x]
+6. Area Of Rhombus [x]
+7. Area Of Equilateral Triangle [x]
+8. Perimeter Of Circle [x]
+9. Perimeter Of Equilateral Triangle [x]
+10. Perimeter Of Parallelogram [x]
+11. Perimeter Of Rectangle [x]
 12. Perimeter Of Square
 13. Perimeter Of Rhombus
 14. Volume Of Cone Java Program
